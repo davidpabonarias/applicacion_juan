@@ -1,0 +1,9 @@
+.app{
+    background: red;
+    height: 100vh;
+    .body{
+        height: 70vh;
+        flex-direction: row;
+        display: flex;
+    }
+}

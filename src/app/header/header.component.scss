@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    background: blue;
+    height: 15%;
+    .foto{
+        position: relative;
+        left: 58.5rem; 
+        width: 100px;
+        height: 100px; 
+        border-radius: 100px;      
+    }
+    .titulo{
+        color: white;
+        position: relative;
+        top: 1rem;
+        left: 56.5rem;
+        h1{
+            position:relative;
+            left: 1.0rem;
+        }
+        .usuario{
+            font-size: large;
+        }
+    
+        
+    }
+
+}
